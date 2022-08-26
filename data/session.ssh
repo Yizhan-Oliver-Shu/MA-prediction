@@ -1,0 +1,64 @@
+                      Session
+Deal Type: MA
+Author: bb
+Created: 6/8/2022 4:22:24 PM
+Comments: 
+
+
+
+Session Contents:
+Mergers && Acquisitions^TRUE
+MA^OMA^
+MA^OMA^
+MA^OMA^
+
+REQUEST^0^TSDCReq_InitDbSelection^^DATABASES: Domestic Mergers, 1979-Present (MA, OMA)
+MA^OMA^
+^
+
+REQUEST^1^TSDCReq_InitDate^^Date Announced: 01/01/1990 to 12/31/2021 (Custom) (Calendar)
+^01/01/1990 to 12/31/2021^rdbCustom^C^
+DA^
+
+REQUEST^2^TSDCReq_Query^^Form of the Deal : M
+^DLSTWIDE LIST
+Merger (Stock or Assets)^M^-1
+ENDLIST
+FORMC^->^
+^M^
+
+REQUEST^3^TSDCReq_Query^^Target Public Status : P
+^DLSTWIDE LIST
+Public^P^-1
+ENDLIST
+TPUBC^->^
+^P^
+
+REQUEST^4^TSDCReq_Query^^Target Primary Stock Exchange : A, NM, N, NK
+^DLSTWIDE LIST
+American^A^-1
+Nasdaq^NM^-1
+New York^N^-1
+NYSE Amex^NK^-1
+ENDLIST
+TEXCHC^->^
+^A^NM^N^NK^
+
+REQUEST^5^TSDCReq_Query^^Deal Status : C, W, P
+^DLSTWIDE LIST
+Completed^C^0
+Withdrawn^W^4
+Pending^P^1
+ENDLIST
+STATC^->^
+^C^W^P^
+
+REQUEST^6^TSDCReq_PersonalReport^^Custom Report: report (Columnar)
+report^^^-1^^^^ ^
+Custom Report^->^
+H:\MA_project\report.rpt
+5^-^FALSE^FALSE^
+FOOTER_LINE^
+NORMALTAB
+
+
