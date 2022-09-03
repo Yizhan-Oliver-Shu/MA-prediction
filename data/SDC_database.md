@@ -12,11 +12,11 @@ The general rule is to download as reasonably large a dataset as possible from t
 
 
 - domestic.
-- date 1990-2021.
-- Form of the deal: Merger. (53666)
-- Target public status: Public. (14926)
-- Target primary exchange: NYSE, Nasdaq, NYSE Amex, American. (10977)
-- Deal Status: Completed, Withdrawn, Pending. (9854)
+- date 1990 - end of 2021.
+- Form of the deal: Merger. 
+- Target public status: Public. 
+- Target primary exchange: NYSE, Nasdaq, NYSE Amex, American.
+- Deal Status: Completed, Withdrawn, Pending.
 
 ## Session and Report Files
 You can directly import the session file `session.ssh` and report file `report.rpt` into SDC Platinum to query the database. 
