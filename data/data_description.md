@@ -53,9 +53,10 @@ Now we have five notebooks for data processing, the first four on variable trans
 - Notebook 3: create new variables
 
   - Create `amend` and `choice` binary variables.
-  - 
-  - 
-  - 
+  - Create competing group number and competing status code.
+  - Create deal value adjusted by CPI index.
+  - Create new payment type.
+  - Extract cash and stock terms from deal consideration.
   
 ## Filters
 - Notebook 4: apply filters
