@@ -1,7 +1,7 @@
                       Session
 Deal Type: MA
 Author: bb
-Created: 1/24/2023 2:08:01 PM
+Created: 1/24/2023 3:02:53 PM
 Comments: 
 
 
@@ -53,10 +53,10 @@ ENDLIST
 STATC^->^
 ^C^W^P^
 
-REQUEST^6^TSDCReq_PersonalReport^^Custom Report: report
+REQUEST^6^TSDCReq_PersonalReport^^Custom Report: report (Columnar)
 report^^^-1^^^^ ^
 Custom Report^->^
-C:\Users\yizhans\MA-prediction-main\MA-prediction-main\data\report.rpt
+C:\Users\yizhans\MA-prediction-main\data\report.rpt
 5^-^FALSE^FALSE^
 FOOTER_LINE^
 NORMALTAB
