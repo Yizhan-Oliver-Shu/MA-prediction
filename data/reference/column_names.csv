@@ -1,0 +1,96 @@
+,column name
+master_deal_no,Deal Number
+statc,Status
+one_day,Date 1 Day Prior to Announcement (Tgt.)
+aone_day,Date 1 Day Prior to Announcement (Acq.)
+dao,Original Date Announced
+da,Date Announced
+dateannorig_days,Number of Days Between Date Originally Announced and Date Announced
+de,Date Effective
+dateeffexp,Expected Date Effective
+dw,Date Withdrawn
+definitive_agt,Definitive Agreement (Y/N)
+da_date,Definitive Agreement Date
+dateval,Value Source Date
+dcom,Valuation Date for Common
+dcomeff,Valuation Date for Common at Effective Date
+att,Attitude
+attitude_change_yn,Attitude Change Flag
+initial_rec,INITIAL_REC
+tn,Target Name
+ttic,Target Primary Ticker Symbol
+tcu,Target CUSIP
+texch,Target Primary Stock Exchange (Name)
+an,Acquiror Name
+apub,Acq. Public Status
+atic,Acquiror Primary Ticker Symbol
+acu,Acquiror CUSIP
+anatc,Acq. Nation
+aexch,Acquiror Primary Stock Exchange (Name)
+cross,Cross Border
+ttf_macro_desc,Target Macro Industry
+ttf_mid_desc,Target Mid Industry
+atf_macro_desc,Acquiror Macro Industry
+atf_mid_desc,Acquiror Mid Industry
+val,Value of Transaction ($mil)
+mv,Tgt. Market Val 4 Wwks Prior to Announcement($ mil)
+amv,Acquiror Market Val 4 Weeks Prior to Announcement ($ mil)
+pr,Price Per Share
+pr_initial,Initial Pr/Sh
+valamend,Value Amended Flag
+pr4wk,Target Share Price 4 Weeks Prior to Announcement ($)
+pr1wk,Target Share Price 1 Week Prior to Announcement ($)
+pr1day,Target Share Price 1 Day Prior to Announcement ($)
+tprday,Target Closing Price At Ann Date ($)
+tpr1daya,Target Closing Price 1 Day After Ann Date ($)
+tpr1wka,Target Closing Price 1 Week After Ann Date ($)
+tpr4wka,Target Closing Price 4 Weeks After Ann Date ($)
+ppmday,Offer Price to Target Stock Price Premium 1 Day Prior to Announcement
+ppmwk,Offer Price to Target Stock Price Premium 1 Week Prior to Announcement
+ppm4wk,Offer Price to Target Stock Price Premium 4 Weeks Prior to Announcement
+ac4wk,Acq Closing Price 4 Wks Prior to Ann($)
+ac1wk,Acq Closing Price 1 Wk Prior to Ann($)
+ac1day,Acq Closing Price 1 Day Prior to Ann($)
+aprday,Acquiror Closing Price At Ann. ($)
+apr1daya,Acquiror Closing Price 1 Day After Ann Date ($)
+apr1wka,Acquiror Closing Price 1 Week After Ann Date ($)
+apr4wka,Acquiror Closing Price 4 Weeks After Ann Date ($)
+consid_struct_desc,Consid Structure Description
+consid,Consideration
+consido,Consideration Offered
+consids,Consideration Sought
+cha,Challenged Deal
+tend,Tender Offer
+phda,Percent of Shares Held at Announcement
+psought,% sought
+term,Termination Agreement
+termfpct,Termination Fee %
+synop,Synopsis
+hdate,History File Date
+hosthprice,Host Curr. Price Per Share
+hval,Value of Deal ($mil)
+hevent,History File Event
+hosthval,Host Curr. Value
+competecode,Competing Bid Deal Code
+competeval,Competing Offer Value
+lbo,LBO
+afinancial,Acquiror Financial Firm Flag
+alp,Acquiror Limited Prtnrshp Flag
+aspv,Acquiror is a Special Purpose Acquisition Vehicle Y/N
+awk,Acquiror is a White Knight
+hedge_fund_involv_yn,Any Hedge Fund Involvement Flag
+collar,Collar
+debtrat,Target Debt Ratio
+roe,Target Return On Equity LTM
+eps,Target Earnings Per Share LTM (US$)
+pe,Ratio of Offer Price to EPS
+pricebook,Ratio of Offer Price to Book Value
+eqvalcf,Ratio of Equity Value at Announcement to EBITDA
+eqvalsales,Equity Value/ Net Sales
+eqval,Equity Value ($mil)
+tlia,Target Total Liabili- ties ($mil)
+cass,Target Current Assets ($mil)
+clia,Target Current Liabili- ties ($mil)
+lockup,Lockup Flag (Y/N)
+dae,Date Announced is Estimated
+vest,Value Est.
