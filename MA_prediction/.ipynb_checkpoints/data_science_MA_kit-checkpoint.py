@@ -1522,7 +1522,6 @@ def extract_terms_from_list_of_consids(key_list, consid_list):
             terms_list.append(convert_consid_single_to_easy_to_parse(temp))
     return terms_list
 
-
 def extract_term_from_consid(consid_ser):
     """
     extract easy-to-parse term string from consid
@@ -1593,7 +1592,7 @@ def extract_cash_stock_from_term(term):
         try:
             return pd.Series([float(cash), 0, 'Cash and Common Stock, fixed dollar'], index=index)# if stock[0]!='$' else (float(cash), float(stock[1:]), 'Cash and Common Stock, fixed dollar')
         except:
-            pass
+            pass 
         
     return pd.Series([np.nan, np.nan, 'parse failed'], index=index)
 
